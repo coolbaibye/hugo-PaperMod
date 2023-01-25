@@ -66,7 +66,20 @@
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
 }
+.entry-content em {
+    font-style: normal;
+    padding-bottom: 1px;
+    border-bottom: 3px solid #ff69b4;
 
+}
+
+.entry-content strong {
+    /*color: #ff69b4;*/
+    /*font-size: 72px;*/
+    background: linear-gradient(to right, #ff8a00 0%, #ff69b4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 .entry-footer {
     color: var(--secondary);
     font-size: 13px;
