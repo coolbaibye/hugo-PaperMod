@@ -46,27 +46,33 @@
 .post-content h1 {
     margin: 40px auto 32px;
     font-size: 40px;
+    color: rgb(191,97,106);
 }
 
 .post-content h2 {
     margin: 32px auto 24px;
     font-size: 32px;
+    color: rgb(235,203,139);
 }
 
 .post-content h3 {
     font-size: 24px;
+    color: rgb(163,190,140);
 }
 
 .post-content h4 {
     font-size: 16px;
+    color: rgb(180,142,173)
 }
 
 .post-content h5 {
     font-size: 14px;
+    color: rgb(143,188,187)
 }
 
 .post-content h6 {
     font-size: 12px;
+    color: rgb(136,192,208);
 }
 
 .post-content a,
